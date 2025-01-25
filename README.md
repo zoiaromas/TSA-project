@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was completed as part of a Time Series Analysis course. The goal of the project was to analyze two time series datasets, I decidesd to use data from the Federal Reserve Economic Data (FRED) website as a main source.
+This project was completed as part of a Time Series Analysis course. The goal of the project was to analyze two time series datasets, I decided to use data from the Federal Reserve Economic Data (FRED) website as a main source.
 
 1. **Non-Seasonal Time Series:** Monthly changes in the global price of olive oil (in USD per ton) from January 2000 to December 2023.
 2. **Seasonal Time Series:** Monthly retail sales data in categories such as furniture, home furnishings, electronics, and household appliances (in million USD) for the same period.
